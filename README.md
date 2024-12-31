@@ -1,1 +1,1 @@
-# .github
+# Luminarix Labs' Github profile
