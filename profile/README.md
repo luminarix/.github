@@ -8,17 +8,17 @@ Welcome to Luminarix Labs, where we specialize in developing high-quality packag
 
 Here are some of our featured packages:
 
-- **[Laravel JSONL Parser](https://github.com/luminarix/laravel-jsonl-parser)**  
-  A JSON Lines parser tailored for Laravel applications.
-
-- **[Laravel Web Tinker](https://github.com/luminarix/laravel-web-tinker)**  
-  A small Laravel package that allows you to use Tinker directly in your browser.
-
-- **[Laravel Shopify GraphQL](https://github.com/luminarix/laravel-shopify-graphql)**  
-  A GraphQL wrapper for Shopify, designed to integrate seamlessly with Laravel.
+- **[Laravel Web Tinker Pro](https://github.com/luminarix/laravel-web-tinker-pro)**  
+  Minimal PHP tinker, redesigned.
 
 - **[Enum Concern](https://github.com/luminarix/enum-concern)**  
   A useful trait for handling enums in Laravel.
+
+- **[Laravel JSONL Parser](https://github.com/luminarix/laravel-jsonl-parser)**  
+  A JSON Lines parser tailored for Laravel applications.
+
+- **[Laravel Shopify GraphQL](https://github.com/luminarix/laravel-shopify-graphql)**  
+  A GraphQL wrapper for Shopify, designed to integrate seamlessly with Laravel.
 
 ## Get Involved
 
